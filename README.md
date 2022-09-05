@@ -2,6 +2,8 @@
 
 Simple TensorFlow [Convolutional Neural Network] (CNN) classifier with 4 convolutional and 3 fully connected layers working on the [CIFAR-10] dataset.
 
+![proposed_model_architecture](https://user-images.githubusercontent.com/33037020/188351488-ec1d6e2e-33b7-4500-80d3-411a2f4d1e80.png)
+
 ---
 
 ## Problem Overview
